@@ -1,0 +1,301 @@
+ #topbar {
+                width: 100%;
+                background-color: black;
+                height: 40px;
+                margin: 0 auto;
+            }
+            
+            body {
+                margin: 0;
+                padding: 0;
+                font-family:  Helvetica, Arial, sans-serif;
+                background-color: #F6F6F6;
+            }
+            
+            #top-logo img {
+                float: left;
+                margin: 8px 0;
+
+            }
+            
+            #top-logo {
+                height: 100%;
+                width: 7.3%;
+                margin: 0 53px;
+                border-right: 1px solid #6a6464;
+                float: left;
+            }
+            
+            #signin {
+                width: 185px;
+                float: left;
+                height: 100%;
+                margin-left: -55px;
+                border-right: 1px solid #6a6464;
+            }
+            
+            #signin img {
+                padding-top: 8px;
+                padding-left: 15px;
+            }
+            
+            span {
+                font-weight: bold;
+                font-size: 14px;
+                color: white;
+                position: relative;
+                top: -9px;
+            }
+            
+            .menu {
+                float: left;
+                border-right: 1px solid #6a6464;
+                padding: 12px 18px;
+                font-weight: bold;
+                font-size: 14px;
+                color: white;
+            }
+            
+            .menu img {
+                width: 10px;
+                padding-left: 60px;
+            }
+            
+            input {
+                font-weight: bold;
+                font-size: 14px;
+                padding: 4px 0 4px 5px;
+                border: none;
+                margin-left: 17px;
+                margin-top: 8px;
+                width: 150px;
+            }
+            
+            #glass {
+                position: relative;
+                top: 7px;
+                left: -4px;
+                height: 24px;
+            }
+            
+            h1 {
+                color: #4A4A4A;
+                font-size: 24px;
+                margin-top: 28px;
+                margin-left: 50px;
+            }
+            
+            #date {
+                float: right;
+                margin-top: -40px;
+                margin-right: 60px;
+                color: #969696;
+                font-size: 24px;
+            }
+            
+            #main-pic {
+                margin-left: 50px;
+            }
+            
+            h2 {
+                margin-top: -135px;
+                color: white;
+                margin-left: 67px;
+                font-size: 32px;
+                font-weight: normal;
+            }
+            
+            h3 {
+                color: #CDCDCD;
+                font-weight: 100;
+                font-size: 16px;
+                margin-left: 67px;
+                margin-top: -17px;
+            }
+            
+            a {
+                text-decoration: none;
+                color: #CDCDCD;
+                margin-left: 68px;
+                font-size: 13px;
+                padding-left: 2px;
+            }
+            
+            a:hover {
+                text-decoration: underline;
+            }
+            
+            #border-1 {
+                color: #E91802;
+                position: relative;
+                top: 0.6px;
+                left: 67px;
+            }
+            
+             #pic-1 {
+                 float: right;
+                 margin-right: 375px;
+                 margin-top: -319px;
+                 width: 302px;
+            }
+            
+            h4 {
+                float: right;
+                margin-right: 425px;
+                margin-top: -232px;
+                font-size: 20px;
+                font-weight: normal;
+                color: white;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                
+            }
+            
+            #link-1 {
+                float: right;
+                margin-right: 585px;
+                margin-top: -175px;
+                text-decoration: none;
+                color: white;
+            }
+            
+            #link-1:hover {
+                text-decoration: underline;
+            }
+            
+            #border-2 {
+                float: right;
+                color: yellow;
+                margin-right: 660px;
+                margin-top: -167px;
+            }
+            
+            #pic-2 {
+                float: right;
+                margin-right: 57px;
+                margin-top: -319px;
+                width: 302px;
+            }
+            
+            #pic-2-p {
+                float: right;
+                margin-right: 94px;
+                margin-top: -232px;
+                font-size: 20px;
+                font-weight: normal;
+                color: white;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+            #link-2 {
+                float: right;
+                color: white;
+                margin-right: 258px;
+                margin-top: -175px;
+                text-decoration: none;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+            #link-2:hover {
+                text-decoration: underline;
+            }
+            
+            #border-3 {
+                float: right;
+                color: green;
+                margin-right: 345px;
+                margin-top: -167px;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+            #pic-3 {
+                float: right;
+                margin-right: 375px;
+                margin-top: -138px;
+                width: 302px;
+            }
+            
+            #pic-3-p {
+                float: right;
+                margin-right: -242px;
+                margin-top: -47px;
+                font-size: 20px;
+                font-weight: normal;
+                color: white;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+             #link-3 {
+                float: right;
+                margin-right: 562px;
+                margin-top: -25px;
+                text-decoration: none;
+                color: white;
+            }
+            
+            #link-3:hover {
+                text-decoration: underline;
+            }
+            
+             #border-4 {
+                float: right;
+                color: #47A1D8;
+                margin-right: 660px;
+                margin-top: -17px;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+            
+            #pic-4 {
+                width: 304px;
+                float: right;
+                margin-right: 56px;
+                margin-top: -171px;
+            }
+            
+            
+             h5 {
+                float: right;
+                margin-right: 140px;
+                margin-top: -60px;
+                font-size: 20px;
+                font-weight: normal;
+                color: white;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+            #border-5 {
+                float: right;
+                color: #47A1D8;
+                margin-right: 340px;
+                margin-top: -17px;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+                text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+            }
+            
+            
+            #link-4 {
+                float: right;
+                margin-right: 293px;
+                margin-top: -25px;
+                text-decoration: none;
+                color: white;
+            }
+            
+            
+            #link-4:hover {
+                text-decoration: underline;
+            } 
+            
+            #play {
+                float: right;
+                position: relative;
+                top: -171px;
+                left: -309px;
+            }
+            
